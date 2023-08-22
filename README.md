@@ -1,2 +1,2 @@
-# topicos_01_atividades
+# TopicosEspeciais_atividades
 Repositório para Atividades de Tópicos Especiais I - ADS
